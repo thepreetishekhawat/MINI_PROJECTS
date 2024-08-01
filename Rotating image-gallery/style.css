@@ -37,6 +37,7 @@ body {
   .btn-container {
     position: relative;
     width: 80%;
+    
   }
   
   .btn {
@@ -48,6 +49,7 @@ body {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    
   }
   
   .btn:hover {
